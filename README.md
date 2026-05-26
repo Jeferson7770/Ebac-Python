@@ -1,3 +1,4 @@
+
 # 🎬 Multithreading Web Scraper (v2)
 
 Este projeto demonstra a utilização de **multithreading em Python** para
@@ -130,3 +131,4 @@ movies.csv
 
 Projeto desenvolvido para fins educacionais, com foco em demonstrar
 conceitos de scraping e concorrência em Python.
+Aluno: Jeferson Moreira
